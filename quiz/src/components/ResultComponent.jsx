@@ -11,7 +11,7 @@ export default class ResultComponent extends Component {
                 
                     <div className="innerbox">
                         <span className="comment">You need more practice!</span><br />
-                        <span className="score">Your Score: 20%</span><br /><br />
+                        <span className="score">Your Score: 20%</span><br /><br /><br />
 
                         <div className="details">
                             <div>

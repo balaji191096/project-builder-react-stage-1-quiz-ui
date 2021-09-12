@@ -1,5 +1,3 @@
-
-
 *{
     margin: 0%;
     padding:0;
@@ -10,7 +8,7 @@ body{
     background: rgb(64, 64, 136);
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
 }
-/* HOme component */
+/* Home component */
 
 .homeContainer{
   margin:15rem;
@@ -19,7 +17,9 @@ body{
   text-align: center;
 
 }
-.homeContainer button{
+.homeContainer button
+{
+    
 width:12rem;
 height: 2rem;
 font-size: large;
@@ -116,6 +116,7 @@ border-radius: 20px;
   .score{
       font-size: xx-large;
       color:lightseagreen;
+      padding:20px;
   }
   .details > div{
       display:flex;
